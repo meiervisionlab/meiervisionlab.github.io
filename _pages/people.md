@@ -7,8 +7,15 @@ redirect_from:
   - /people.html
 ---
 
-People in the lab
+Principal Investigator
 ======
+
+Kim Meier, PhD
+
+
 
 People also in the lab
 ======
+
+Paula Fajardo
+Vir Sehgal

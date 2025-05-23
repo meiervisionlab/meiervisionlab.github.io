@@ -21,23 +21,22 @@ repository               : "meiervisionlab/meiervisionlab.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "meiervisionlab.png"
+  avatar           : "mvl.png"
   name             : ""
-  pronouns         : # example: "she/her"  
   bio              : "we're curious about how the visual parts of the brain develop — both under typical circumstances, and when children experience challenges to their vision"
-  location         : "Earth"
+  location         : "JDA 1350"
   employer         : "University of Houston"
   uri              : # URL
   email            : "kmeier@uh.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=bscClysAAAAJ&hl=en"
-  orcid            : "https://orcid.org/0000-0002-7070-0753"
-  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Meier+K&cauthor_id=37198211"
+#  googlescholar    : "https://scholar.google.com/citations?user=bscClysAAAAJ&hl=en"
+#  orcid            : "https://orcid.org/0000-0002-7070-0753"
+#  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?sort=date&term=Meier+K&cauthor_id=37198211"
 
   # Repositories and software development
 
-  github           : "meiervisionlab"
+#  github           : "meiervisionlab"
 
 
 

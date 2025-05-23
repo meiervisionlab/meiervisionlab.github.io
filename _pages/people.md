@@ -1,6 +1,6 @@
 ---
 permalink: /people/
-title: "people in the lab"
+#title: "people in the lab"
 author_profile: true
 redirect_from: 
   - /people/

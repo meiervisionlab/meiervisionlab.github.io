@@ -7,11 +7,15 @@ redirect_from:
   - /getinvolved.html
 ---
 
+
 This is a basic science lab focused on sensation, perception, and visual neuroscience. While our research may have translational relevance, we are not involved in clinical practice or patient care. Student roles center on computer-based experiments with human participants, using tools such as eye tracking, EEG, and psychophysical methods.
 
 You might enjoy working in our lab if you've ever wondered to yourself: Why do illusions work even when you know they're not real? How do we integrate signals across all of our senses to form a coherent experience? In what ways does the brain act like a filter, emphasizing some inputs while ignoring others? How can we measure what someone sees or feels using only brain or eye signals? What do models of vision reveal about how the brain encodes the world? You should be comfortable with thinking about the brain as an information-processing system—how signals are encoded, transformed, and interpreted to produce perception and behavior.
 
+
 [Get in touch via email](mailto:kmeier@uh.edu) if you're interested in learning more about these opportunities. (Please note - for some reason, these emails tend to get caught in my spam filter, especially if we've never corresponded before. If you've sent me an email and haven't heard anything back in a while, it's OK to email again.)
+
+
 
 ### graduate student opportunities
 
@@ -21,16 +25,16 @@ You might enjoy working in our lab if you've ever wondered to yourself: Why do i
 
 <!--  * For those with access to funding/scholarship opportunities for exchange programs, we are delighted to host visiting students. Some examples of these opportunities might be listed under [resources](/resources/). -->
 
+
 ### undergraduate student opportunities
 
-We welcome motivated undergraduate students to inquire about research opportunities in the lab. Our work is well-suited for students planning to pursue graduate training in psychology, neuroscience, vision science, or related disciplines—as well as those interested in gaining scientific research experience before applying to health professions or computational fields. We can support student applications for [OURMA programs](https://www.uh.edu/honors/undergraduate-research/our-programs/), like the Summer Undergraduate Research Fellowship or the Provost's Undergraduate Research Scholarship Program; reach out early if this is something you are interested in pursuing.
+We welcome motivated undergraduate students to inquire about research opportunities in the lab. Our work is well-suited for students planning to pursue graduate training in psychology, neuroscience, vision science, or related disciplines—as well as those interested in gaining scientific research experience before applying to health professions or computational fields. If you're interested in joining the lab, please email Dr. Meier with a brief statement describing your academic background, relevant coursework or skills, and what draws you to the lab's research. Include your resume or CV and your unofficial transcript if possible.
 
-If you're interested in joining the lab, please email Dr. Meier with a brief statement describing your academic background, relevant coursework or skills, and what draws you to the lab's research. Include your resume or CV and your unofficial transcript if possible.
 
 
 ### doctor of optometry (OD) student opportunities
 
-  * Currently-enrolled OD students can take part in research in the lab either by volunteering, [through the UHCO Summer Research Program](https://www.opt.uh.edu/research/summer-research-program/), or through the OD/MS program. If this is something you're interested in, you can email any time of year to discuss research opportunities.
+Currently-enrolled OD students can take part in research in the lab either by volunteering, [through the UHCO Summer Research Program](https://www.opt.uh.edu/research/summer-research-program/), or through the OD/MS program. If this is something you're interested in, you can email any time of year to discuss research opportunities.
   
 <!-- ### postdoctoral fellow opportunties
 

@@ -12,8 +12,8 @@ main:
   - title: "get involved"
     url: /getinvolved/
     
-  - title: "publications"
-    url: /publications/
+#  - title: "publications"
+#    url: /publications/
 
   - title: "resources"
     url: /resources/

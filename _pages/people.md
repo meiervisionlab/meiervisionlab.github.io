@@ -8,21 +8,33 @@ redirect_from:
 ---
 
 
+### current members
 
-Kim Meier, PhD (Psychology)
+**Kim Meier**, PhD (Psychology)
+
 Assistant Professor, University of Houston College of Optometry
 
-Riley Wiland, BS (Psychology)
+
+**Riley Wiland**, BS (Psychology)
+
 Behavioral Sciences Researcher, University of Houston College of Optometry
 
 
-research assistants
-======
-Mustafa Murtaza (student in Mathematics)
-Sameer Salman, BS Computer Science (student in Biology)
-Vir Sehgal (student in Health & Biology)
+**Mustafa Murtaza** (student in Mathematics)
+
+Undergraduate Research Assistant, Summer Undergraduate Research Fellow
 
 
-lab alumni
-======
-Paula Fajardo, BS (Biology)
+**Sameer Salman**, BS Computer Science (student in Biology)
+
+Postbac Research Assistant
+
+
+**Vir Sehgal** (student in Health & Biology)
+
+Undergraduate Research Assistant, Summer Undergraduate Research Fellow
+
+
+### lab alumni
+
+**Paula Fajardo**, BS (Biology) - Undergraduate Research Assistant

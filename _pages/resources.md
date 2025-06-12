@@ -9,17 +9,16 @@ redirect_from:
 
 These resources are intended for anyone in or outside the lab.
 
+
 ### funding opportunties
 
 Ordered by training stage. This list is for anyone who finds it helpful, but if you're in the lab tell Dr. Meier if you want to apply for any of them (I do a poor job of keeping track who is eligible for what).
 
   * **Undergraduates** (UH): The [The Office of Undergraduate Research and Major Awards](https://www.uh.edu/honors/undergraduate-research/our-programs/) supports funding for undergraduates to undertake research projects under the direction of UH faculty. SURF and PURS are particularly relevant to our lab.
-  
-  * **Undergrad, grad, and medical students** (no citizenship restrictions): [Fight for Sight Summer Student Fellowships](https://fightforsight.org/grants/research-categories/)
 
   * **Graduate students** (US citizens, permanent residents, or undocumented with permission): [HHMI Gilliam Fellows Program](https://www.hhmi.org/programs/gilliam-fellows)
 
-  * **Graduate students** (Canadian): If you hold a Canada Graduate Scholarship, be aware of the [Michael Smith Foreign Study Supplement](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSForeignStudy-BESCEtudeEtranger_eng.asp), which provides funding for short-term visits (a few months) to research labs outside of Canada.
+  * **Graduate students** (Canadian): If you're a grad student in Canada and you hold a Canada Graduate Scholarship, be aware of the [Michael Smith Foreign Study Supplement](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSForeignStudy-BESCEtudeEtranger_eng.asp), which provides funding for short-term visits (a few months) to research labs outside of Canada.
 
   * **Graduate students/postdocs** (non-US nationals): [AAUW's International Fellowships for Women](https://www.aauw.org/resources/programs/fellowships-grants/international/)
 
@@ -28,7 +27,9 @@ Ordered by training stage. This list is for anyone who finds it helpful, but if 
   * **Postdocs** (not restricted to US citizens, but check eligibility to be sure): [NIH K99](https://researchtraining.nih.gov/programs/career-development/K99-R00); [Knights Templar Eye Foundation Career-Starter Grant](https://www.ktef.org/grants); [Thrasher Research Early Career Award](https://www.thrasherresearch.org/early-career-award?lang=eng); [HHMI Hanna H. Gray Fellows Program](https://www.hhmi.org/programs/hanna-h-gray-fellows)
   
   * **Postdocs** (specifically for people to work in a country for which they are *not* a national): [Human Frontier Science Program (HFSP)](https://www.hfsp.org/funding/hfsp-funding/postdoctoral-fellowships)
+  
   * **Postdocs** (Canadian citizens/permanent residents of Canada who obtained a PhD in Canada -- check requirements for full eligibility info): [NSERC Postdoctoral Fellowship](https://www.nserc-crsng.gc.ca/students-etudiants/pd-np/pdf-bp_eng.asp), [CIHR Postdoctoral Fellowship](https://www.researchnet-recherchenet.ca/rnr16/vwOpprtntyDtls.do?prog=4171&language=E), [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)
+  
   
 ### training opportunities
 
@@ -44,7 +45,7 @@ Our lab uses MATLAB/Psychtoolbox to present experiments and to process neuroimag
   * [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) is an interactive introduction from the publisher.
   * [MATLAB for the Behavioral Sciences](https://github.com/VisCog/MatlabForTheBehavioralSciences) is a good intro for beginners getting started with MATLAB (and for non-beginners there are good demos for using meshgrid to create sinewaves and gabors).
 
-
+<!--
 ### great papers
 
   * Barlow HB (1961) [Possible principles underlying the transformation of sensory messages](https://www.cnbc.cmu.edu/~tai/nc19journalclubs/Barlow-SensoryCommunication-1961.pdf). *Sensory Communication, 1*, 217-233. "A wing would be a most mystifying structure if one did not know that birds flew.."
@@ -52,11 +53,14 @@ Our lab uses MATLAB/Psychtoolbox to present experiments and to process neuroimag
 computations, repeating them across brain regions and modalities to apply similar
 operations to different problems.."
   * Teller D (1984) [Linking propositions](https://pubmed.ncbi.nlm.nih.gov/6395480/). *Vision Res, 24*, 1233-1246. "Insofar as visual scientists are interested in explaining psychophysical data on the basis of the properties of the neural substrate, we must be said to be interested precisely in the formulation, testing, accepting and falsifying of linking propositions. Yet explicit, systematic discussions of linking propositions remain scarce in the vision literature.."
+  -->
   
 ### advice for applying to graduate school
 
 The process of applying to graduate school can be mystifying even for students who are well-supported. These resources might help:
 
   * [How to Apply to Graduate School Positions](https://sites.google.com/view/apply-academic-positions/graduate-student?authuser=0), Lily Khadempour, Rutgers
+  
   * [How to get into graduate school](https://matt.might.net/articles/how-to-apply-and-get-in-to-graduate-school-in-science-mathematics-engineering-or-computer-science/), Matt Might, UAB
+  
   * The NRMN has a course series titled ["Applying to Graduate School and Summer Research Experiences"](https://courses.nrmnet.net/course/catalog), with a variety of modules covering applying to graduate schools, including topics like how to prepare a CV and a Statement of Purpose.

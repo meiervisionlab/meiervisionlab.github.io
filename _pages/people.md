@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-### current members
+## current members
 
 **Kim Meier**, PhD (Psychology)
 
@@ -35,6 +35,6 @@ Postbac Research Assistant
 Undergraduate Research Assistant, Summer Undergraduate Research Fellow
 
 
-### lab alumni
+## lab alumni
 
 **Paula Fajardo**, BS (Biology) - Undergraduate Research Assistant
